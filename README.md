@@ -1,2 +1,0 @@
-# dxcoct
-my first practice
